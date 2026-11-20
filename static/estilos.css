@@ -1,0 +1,12 @@
+body { font-family: Arial, sans-serif; max-width: 960px; margin: 1.5rem auto; padding: 0 1rem; color: #222; }
+h1 { font-size: 1.6rem; }
+button { padding: .45rem .9rem; cursor: pointer; }
+input[type="text"] { padding: .4rem; width: 18rem; max-width: 100%; }
+.mensaje { padding: .6rem .8rem; border-left: 4px solid; }
+.mensaje.success { border-color: #2e7d32; background: #e8f5e9; }
+.mensaje.error { border-color: #c62828; background: #ffebee; }
+.resumen { line-height: 1.7; }
+.tabla-scroll { overflow-x: auto; margin-top: 1rem; }
+table { border-collapse: collapse; width: 100%; }
+th, td { border: 1px solid #ccc; padding: .4rem .6rem; text-align: left; }
+th { background: #f0f0f0; }
