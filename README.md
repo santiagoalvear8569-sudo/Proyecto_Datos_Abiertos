@@ -2,9 +2,9 @@
 
 **Asignatura:** Desarrollo de Aplicaciones con Acceso a Datos
 **Integrantes:**
-- Integrante 1 – API y datos: _nombre_
-- Integrante 2 – SQL Server y Modelo: _nombre_
-- Integrante 3 – Controlador y Vista: _nombre_
+- Santiago Alvear – API y datos: _nombre_
+- Kener Quezada – SQL Server y Modelo: _nombre_
+- Diego Rodriguez – Controlador y Vista: _nombre_
 
 ## Objetivo
 Aplicación web en Flask que consulta una API de datos.gov.co, guarda los registros recibidos en SQL Server y permite consultarlos desde el navegador con un filtro de búsqueda y un resumen numérico, aplicando el patrón MVC. No implementa CRUD: solo sincroniza, guarda y consulta.
